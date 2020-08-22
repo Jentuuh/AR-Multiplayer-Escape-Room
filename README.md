@@ -3,6 +3,8 @@ This Android AR Multiplayer game was made by me and 2 other classmates during a 
 
 The game exists of 4 levels, each set in a different theme and with different puzzles. Each player will take the role of a character of their choice (in multiplayer levels) and will need to co-operate and combine the strengths of each team member to complete the level. Players can communicate with each other using a textual chat. They can also transfer items between each other using a shared inventory.
 
+You can play the game at any location (although some levels require walls for a good experience), in any room. Before the game starts, each player will need to initialize their room and place 'object containers' around the room in order to do so.
+
 We developed the application in Unity using Google's ARCore framework and Photon PUN 2 framework for networking functionality.
 
 Here's a little [preview](https://www.youtube.com/watch?v=MD2tUd2vk1c&t=) of the application in action.
