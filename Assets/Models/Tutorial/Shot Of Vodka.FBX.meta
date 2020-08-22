@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 01e4e1070df1d4e37b3c415a55b4c35a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.Target
+    100004: Camera002
+    100006: Camera002.Target
+    100008: Camera003
+    100010: Camera003.Target
+    100012: Omni001
+    100014: Omni002
+    100016: Podium
+    100018: Scene
+    100020: Shot glass
+    100022: Shot glass with vodka
+    100024: //RootNode
+    100026: Vodka in a shot glass
+    100028: VRayLight001
+    100030: VRayLight001.Target
+    100032: VRayPlane001
+    100034: VRayPlane002
+    400000: Camera001
+    400002: Camera001.Target
+    400004: Camera002
+    400006: Camera002.Target
+    400008: Camera003
+    400010: Camera003.Target
+    400012: Omni001
+    400014: Omni002
+    400016: Podium
+    400018: Scene
+    400020: Shot glass
+    400022: Shot glass with vodka
+    400024: //RootNode
+    400026: Vodka in a shot glass
+    400028: VRayLight001
+    400030: VRayLight001.Target
+    400032: VRayPlane001
+    400034: VRayPlane002
+    2000000: Camera001
+    2000002: Camera002
+    2000004: Camera003
+    2100000: Podium
+    2100002: Glass
+    2100004: Vodka
+    2300000: Podium
+    2300002: Shot glass
+    2300004: Vodka in a shot glass
+    3300000: Podium
+    3300002: Shot glass
+    3300004: Vodka in a shot glass
+    4300000: Podium
+    4300002: Shot glass
+    4300004: Vodka in a shot glass
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Omni001
+    10800002: Omni002
+    6000828045688606266: Camera001
+    6000828045688606268: Camera002
+    6000828045688606270: Camera003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

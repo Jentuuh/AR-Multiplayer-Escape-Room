@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 09d1a37c4af124f1abe568bf2c8426e4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Centrifuge_Part_by_Tommy.SLDPRT
+    100004: Centrifuge_Part_by_Tommy.SLDPRT-1
+    100006: Centrifuge_Part_by_Tommy.SLDPRT-10
+    100008: Centrifuge_Part_by_Tommy.SLDPRT-11
+    100010: Centrifuge_Part_by_Tommy.SLDPRT-12
+    100012: Centrifuge_Part_by_Tommy.SLDPRT-13
+    100014: Centrifuge_Part_by_Tommy.SLDPRT-14
+    100016: Centrifuge_Part_by_Tommy.SLDPRT-15
+    100018: Centrifuge_Part_by_Tommy.SLDPRT-16
+    100020: Centrifuge_Part_by_Tommy.SLDPRT-2
+    100022: Centrifuge_Part_by_Tommy.SLDPRT-3
+    100024: Centrifuge_Part_by_Tommy.SLDPRT-4
+    100026: Centrifuge_Part_by_Tommy.SLDPRT-5
+    100028: Centrifuge_Part_by_Tommy.SLDPRT-6
+    100030: Centrifuge_Part_by_Tommy.SLDPRT-7
+    100032: Centrifuge_Part_by_Tommy.SLDPRT-8
+    100034: Centrifuge_Part_by_Tommy.SLDPRT-9
+    400000: //RootNode
+    400002: Centrifuge_Part_by_Tommy.SLDPRT
+    400004: Centrifuge_Part_by_Tommy.SLDPRT-1
+    400006: Centrifuge_Part_by_Tommy.SLDPRT-10
+    400008: Centrifuge_Part_by_Tommy.SLDPRT-11
+    400010: Centrifuge_Part_by_Tommy.SLDPRT-12
+    400012: Centrifuge_Part_by_Tommy.SLDPRT-13
+    400014: Centrifuge_Part_by_Tommy.SLDPRT-14
+    400016: Centrifuge_Part_by_Tommy.SLDPRT-15
+    400018: Centrifuge_Part_by_Tommy.SLDPRT-16
+    400020: Centrifuge_Part_by_Tommy.SLDPRT-2
+    400022: Centrifuge_Part_by_Tommy.SLDPRT-3
+    400024: Centrifuge_Part_by_Tommy.SLDPRT-4
+    400026: Centrifuge_Part_by_Tommy.SLDPRT-5
+    400028: Centrifuge_Part_by_Tommy.SLDPRT-6
+    400030: Centrifuge_Part_by_Tommy.SLDPRT-7
+    400032: Centrifuge_Part_by_Tommy.SLDPRT-8
+    400034: Centrifuge_Part_by_Tommy.SLDPRT-9
+    2100000: Centrifuge_Part_by_Tommy.SLDPRTMat
+    2100002: Centrifuge_Part_by_Tommy.SLDPRT-1Mat
+    2100004: Centrifuge_Part_by_Tommy.SLDPRT-10Mat
+    2100006: Centrifuge_Part_by_Tommy.SLDPRT-11Mat
+    2100008: Centrifuge_Part_by_Tommy.SLDPRT-12Mat
+    2100010: Centrifuge_Part_by_Tommy.SLDPRT-13Mat
+    2100012: Centrifuge_Part_by_Tommy.SLDPRT-14Mat
+    2100014: Centrifuge_Part_by_Tommy.SLDPRT-15Mat
+    2100016: Centrifuge_Part_by_Tommy.SLDPRT-16Mat
+    2100018: Centrifuge_Part_by_Tommy.SLDPRT-2Mat
+    2100020: Centrifuge_Part_by_Tommy.SLDPRT-3Mat
+    2100022: Centrifuge_Part_by_Tommy.SLDPRT-4Mat
+    2100024: Centrifuge_Part_by_Tommy.SLDPRT-5Mat
+    2100026: Centrifuge_Part_by_Tommy.SLDPRT-6Mat
+    2100028: Centrifuge_Part_by_Tommy.SLDPRT-7Mat
+    2100030: Centrifuge_Part_by_Tommy.SLDPRT-8Mat
+    2100032: Centrifuge_Part_by_Tommy.SLDPRT-9Mat
+    2300000: Centrifuge_Part_by_Tommy.SLDPRT
+    2300002: Centrifuge_Part_by_Tommy.SLDPRT-1
+    2300004: Centrifuge_Part_by_Tommy.SLDPRT-10
+    2300006: Centrifuge_Part_by_Tommy.SLDPRT-11
+    2300008: Centrifuge_Part_by_Tommy.SLDPRT-12
+    2300010: Centrifuge_Part_by_Tommy.SLDPRT-13
+    2300012: Centrifuge_Part_by_Tommy.SLDPRT-14
+    2300014: Centrifuge_Part_by_Tommy.SLDPRT-15
+    2300016: Centrifuge_Part_by_Tommy.SLDPRT-16
+    2300018: Centrifuge_Part_by_Tommy.SLDPRT-2
+    2300020: Centrifuge_Part_by_Tommy.SLDPRT-3
+    2300022: Centrifuge_Part_by_Tommy.SLDPRT-4
+    2300024: Centrifuge_Part_by_Tommy.SLDPRT-5
+    2300026: Centrifuge_Part_by_Tommy.SLDPRT-6
+    2300028: Centrifuge_Part_by_Tommy.SLDPRT-7
+    2300030: Centrifuge_Part_by_Tommy.SLDPRT-8
+    2300032: Centrifuge_Part_by_Tommy.SLDPRT-9
+    3300000: Centrifuge_Part_by_Tommy.SLDPRT
+    3300002: Centrifuge_Part_by_Tommy.SLDPRT-1
+    3300004: Centrifuge_Part_by_Tommy.SLDPRT-10
+    3300006: Centrifuge_Part_by_Tommy.SLDPRT-11
+    3300008: Centrifuge_Part_by_Tommy.SLDPRT-12
+    3300010: Centrifuge_Part_by_Tommy.SLDPRT-13
+    3300012: Centrifuge_Part_by_Tommy.SLDPRT-14
+    3300014: Centrifuge_Part_by_Tommy.SLDPRT-15
+    3300016: Centrifuge_Part_by_Tommy.SLDPRT-16
+    3300018: Centrifuge_Part_by_Tommy.SLDPRT-2
+    3300020: Centrifuge_Part_by_Tommy.SLDPRT-3
+    3300022: Centrifuge_Part_by_Tommy.SLDPRT-4
+    3300024: Centrifuge_Part_by_Tommy.SLDPRT-5
+    3300026: Centrifuge_Part_by_Tommy.SLDPRT-6
+    3300028: Centrifuge_Part_by_Tommy.SLDPRT-7
+    3300030: Centrifuge_Part_by_Tommy.SLDPRT-8
+    3300032: Centrifuge_Part_by_Tommy.SLDPRT-9
+    4300000: Centrifuge_Part_by_Tommy.SLDPRT
+    4300002: Centrifuge_Part_by_Tommy.SLDPRT-1
+    4300004: Centrifuge_Part_by_Tommy.SLDPRT-10
+    4300006: Centrifuge_Part_by_Tommy.SLDPRT-11
+    4300008: Centrifuge_Part_by_Tommy.SLDPRT-12
+    4300010: Centrifuge_Part_by_Tommy.SLDPRT-13
+    4300012: Centrifuge_Part_by_Tommy.SLDPRT-14
+    4300014: Centrifuge_Part_by_Tommy.SLDPRT-15
+    4300016: Centrifuge_Part_by_Tommy.SLDPRT-16
+    4300018: Centrifuge_Part_by_Tommy.SLDPRT-2
+    4300020: Centrifuge_Part_by_Tommy.SLDPRT-3
+    4300022: Centrifuge_Part_by_Tommy.SLDPRT-4
+    4300024: Centrifuge_Part_by_Tommy.SLDPRT-5
+    4300026: Centrifuge_Part_by_Tommy.SLDPRT-6
+    4300028: Centrifuge_Part_by_Tommy.SLDPRT-7
+    4300030: Centrifuge_Part_by_Tommy.SLDPRT-8
+    4300032: Centrifuge_Part_by_Tommy.SLDPRT-9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

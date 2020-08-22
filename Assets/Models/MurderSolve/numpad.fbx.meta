@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: c5277dfb9128746698c74ac558b0bc0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: button_001
+    100004: button_002
+    100006: button_003
+    100008: button_004
+    100010: button_005
+    100012: button_006
+    100014: button_007
+    100016: button_008
+    100018: button_009
+    100020: button_010
+    100022: button_011
+    100024: button_012
+    100026: chassis bottom_001
+    100028: display glass_001
+    100030: green button_001
+    100032: Group_001
+    100034: keyboard text_001
+    100036: red button_001
+    100038: VX820 logo_001
+    100040: yellow button_001
+    400000: //RootNode
+    400002: button_001
+    400004: button_002
+    400006: button_003
+    400008: button_004
+    400010: button_005
+    400012: button_006
+    400014: button_007
+    400016: button_008
+    400018: button_009
+    400020: button_010
+    400022: button_011
+    400024: button_012
+    400026: chassis bottom_001
+    400028: display glass_001
+    400030: green button_001
+    400032: Group_001
+    400034: keyboard text_001
+    400036: red button_001
+    400038: VX820 logo_001
+    400040: yellow button_001
+    2100000: '[Color_008]1'
+    2100002: Color_008
+    2100004: Metal_Corrogated_Shiny
+    2100006: 0098_DodgerBlue
+    2100008: Color_002
+    2100010: Color_004
+    2100012: '[Color_009]1'
+    2100014: Color_G16
+    2100016: Color_A11
+    2100018: Color_D01
+    2300000: button_001
+    2300002: button_002
+    2300004: button_003
+    2300006: button_004
+    2300008: button_005
+    2300010: button_006
+    2300012: button_007
+    2300014: button_008
+    2300016: button_009
+    2300018: button_010
+    2300020: button_011
+    2300022: button_012
+    2300024: chassis bottom_001
+    2300026: display glass_001
+    2300028: green button_001
+    2300030: Group_001
+    2300032: keyboard text_001
+    2300034: red button_001
+    2300036: VX820 logo_001
+    2300038: yellow button_001
+    3300000: button_001
+    3300002: button_002
+    3300004: button_003
+    3300006: button_004
+    3300008: button_005
+    3300010: button_006
+    3300012: button_007
+    3300014: button_008
+    3300016: button_009
+    3300018: button_010
+    3300020: button_011
+    3300022: button_012
+    3300024: chassis bottom_001
+    3300026: display glass_001
+    3300028: green button_001
+    3300030: Group_001
+    3300032: keyboard text_001
+    3300034: red button_001
+    3300036: VX820 logo_001
+    3300038: yellow button_001
+    4300000: chassis bottom_001
+    4300002: display glass_001
+    4300004: VX820 logo_001
+    4300006: Group_001
+    4300008: green button_001
+    4300010: red button_001
+    4300012: yellow button_001
+    4300014: keyboard text_001
+    4300016: button_012
+    4300018: button_011
+    4300020: button_010
+    4300022: button_009
+    4300024: button_008
+    4300026: button_007
+    4300028: button_006
+    4300030: button_005
+    4300032: button_004
+    4300034: button_003
+    4300036: button_002
+    4300038: button_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
