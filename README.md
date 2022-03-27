@@ -7,7 +7,7 @@ You can play the game at any location (although some levels require walls for a 
 
 We developed the application in Unity using Google's ARCore framework and Photon PUN 2 framework for networking functionality.
 
-Here's a little [preview](https://www.youtube.com/watch?v=MD2tUd2vk1c&t=) of the application in action.
+Here's a little [demo](https://www.youtube.com/watch?v=MD2tUd2vk1c&t=) of the application in action.
 
 # Usage
 If you'd like to try out the app for yourself (or just view the project in Unity) : 
