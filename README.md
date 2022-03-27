@@ -22,6 +22,6 @@ If you'd like to try out the app for yourself (or just view the project in Unity
 
 5. Find the directory in which you saved our cloned project 
 
-6. Go to Assets > Scenes and open one of the scenes you see (NOT the `.meta` files!) 
+6. Go to `Assets > Scenes` and open one of the scenes you see (NOT the `.meta` files!) 
 
 7. This should load in the whole project into Unity
