@@ -12,16 +12,16 @@ Here's a little [preview](https://www.youtube.com/watch?v=MD2tUd2vk1c&t=) of the
 # Usage
 If you'd like to try out the app for yourself (or just view the project in Unity) : 
 
---> Clone this project to your PC 
+1. Clone this project to your PC 
 
---> Download Unity (we used version 2018.4.17) 
+2. Download Unity (we used version 2018.4.17) 
 
---> Open Unity Hub 
+3. Open Unity Hub 
 
---> Under 'Projects', click 'ADD' 
+4. Under 'Projects', click 'ADD' 
 
---> Find the directory in which you saved our cloned project 
+5. Find the directory in which you saved our cloned project 
 
---> Go to Assets > Scenes and open one of the scenes you see (NOT the .meta files!) 
+6. Go to Assets > Scenes and open one of the scenes you see (NOT the .meta files!) 
 
---> This should load in the whole project into Unity
+7. This should load in the whole project into Unity
